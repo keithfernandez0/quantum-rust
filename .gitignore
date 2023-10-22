@@ -1,0 +1,36 @@
+/target
+
+# JetBrains IDEs generated files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
+
+# Directory-based .idea/
+.idea/dictionaries
+.idea/shelf
+.idea/caches
+
+# Plugins
+.idea/djangoTests.xml
+.idea/jsLibraryMappings.xml
+.idea/gradle.xml
+
+# *.ws files
+.idea/codeStyles/
+.idea/scopes/
+.idea/codeInsight/
+
+# External tool builders
+.idea/misc.xml
+
+# Exclude .DS_Store on macOS
+.DS_Store
+
+# Exclude .editorconfig file created by JetBrains IDEs
+.editorconfig
