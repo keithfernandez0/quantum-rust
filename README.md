@@ -8,7 +8,7 @@ Key Features:
 - Compatibility with existing network protocols for seamless integration.
 - A collaborative community working to safeguard digital communication.
 
-Contributions for this project are welcomed.
+Contributions for this project are welcomed. More technical details will be documented as this repo ages over time.
 
 For questions about this project or inquiries on collaboration for research projects, please email me at my university email address at fernkayl@kean.edu.
 
