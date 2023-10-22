@@ -1,5 +1,5 @@
 ---
-name: Security Issue Report
+name: Security issue
 about: Report a security vulnerability to help improve the project's security.
 title: ''
 labels: 'security'
