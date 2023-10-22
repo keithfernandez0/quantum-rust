@@ -1,6 +1,6 @@
 Quantum-Rust is an open-source project focused on developing quantum-resistant cryptographic solutions in the Rust programming language. As the threat of quantum computing to classical cryptographic methods looms, this project aims to provide a foundation for building secure and resilient digital communication systems.
 
-Key Features:
+Planned main features:
 
 - Implementation of post-quantum cryptographic algorithms in Rust.
 - Quantum-resistant key exchange, encryption, and digital signatures.
